@@ -1,0 +1,5 @@
+
+
+
+// the issue: warning: LF will be replaced by CRLF in XXXXXXXXXXXXXX.
+to fix:   git config core.autocrlf false
